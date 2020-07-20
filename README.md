@@ -1,5 +1,5 @@
-### Siddhartha Sarkar
-# UI/UX designer.
+## Siddhartha Sarkar
+* UI/UX designer.
 * Loves to design stuff.
 <hr>
 
