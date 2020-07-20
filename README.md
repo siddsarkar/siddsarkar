@@ -1,4 +1,4 @@
-### Siddhartha Sarkar <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddhartha Sarkar's DEV Profile" height="30" width="30">
+### Siddhartha Sarkar <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddhartha Sarkar's DEV Profile" height="15" width="15">
 
 [![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddsarkar)](https://github.com/anuraghazra/github-readme-stats)
 [![Siddhartha Sarkar's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/siddsarkar)
