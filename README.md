@@ -1,8 +1,5 @@
-## Siddhartha Sarkar
+### Siddhartha Sarkar
 [![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddsarkar)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
 ### Hola visitor! 👋
 
 - 🔭 I’m currently working on **ReactJS Projects** 🌝
