@@ -18,6 +18,10 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=siddsarkar.siddsarkar" />
 
+<a href="https://dev.to/siddsarkar">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddhartha Sarkar's DEV Profile" height="30" width="30">
+</a>
+
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddsarkar" />
 
 
