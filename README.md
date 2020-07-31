@@ -1,9 +1,6 @@
-### Siddhartha Sarkar <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddhartha Sarkar's DEV Profile" height="20" width="20">
-
-[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddsarkar)](https://github.com/anuraghazra/github-readme-stats)
 ### Hola visitor! 👋
 
-- 🔭 I’m currently working on **ReactJS Projects** 🌝
+- 🔭 I’m currently working on **React Native Projects** 🌝
 - 🌱 I’m currently learning **ReactJS** 🌼
 - 👯 I’m looking to collaborate on **Anything** 🐬
 - 🤔 I’m looking for help with **Java** ☕
