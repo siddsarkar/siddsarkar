@@ -1,7 +1,7 @@
 ### Hola visitor! 👋
 
 - 🔭 I’m currently working on **React Native Projects** 🌝
-- 🌱 I’m currently learning **ReactJS** 🌼
+- 🌱 I’m currently learning **Mobile App Development** 🌼
 - 👯 I’m looking to collaborate on **Anything** 🐬
 - 🤔 I’m looking for help with **Java** ☕
 - 💬 Ask me about **Web Development** 💻
