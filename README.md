@@ -1,5 +1,5 @@
 ### Hola visitor! 👋, my name is Siddhartha
-#### _I am a web cum mobile app developer!_
+#### I am a web cum mobile app developer!
 ![_I am a web cum mobile app developer!_](https://raw.githubusercontent.com/siddsarkar/siddsarkar.github.io/master/res/banner.png)
 
 
@@ -19,7 +19,7 @@ Skills: REACT-NATIVE / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/siddsarkar)  
+
 
 ### 📝 Latest articles from [dev.to](https://dev.to/siddsarkar)
 
@@ -30,6 +30,6 @@ Skills: REACT-NATIVE / REACT / JS / HTML / CSS
 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddsarkar" />
 
-
+![Profile views](https://gpvc.arturio.dev/siddsarkar)  
 </p>
 
