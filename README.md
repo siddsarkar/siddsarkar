@@ -1,5 +1,5 @@
 ### Hola visitor! 👋, my name is Siddhartha
-#### I am a web cum mobile app developer!
+#### I am a web-cum-mobile app developer!
 ![_I am a web-cum-mobile app developer!_](https://raw.githubusercontent.com/siddsarkar/siddsarkar.github.io/master/res/banner.png)
 
 
