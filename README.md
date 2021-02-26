@@ -1,9 +1,9 @@
 ### Hola visitor! 👋, my name is Siddhartha
-#### I am a web-cum-mobile app developer!
+#### I am a website/addons/mobile-app developer!
 ![_I am a web-cum-mobile app developer!_](https://raw.githubusercontent.com/siddsarkar/siddsarkar.github.io/master/res/banner.png)
 
 
-#### Skills(Expert): REACT-NATIVE / REACT / JS / HTML / CSS 
+#### Skills(Expert): JS / HTML / SASS / REACT / REACT-NATIVE
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> 
@@ -20,6 +20,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="firefox" width="40" height="40"/> 
   
 - 🔭 I’m currently working on **Backend** 🌝 
 - 🌱 I’m currently into **NodeJS/Express** 🌼 
