@@ -3,7 +3,7 @@
 ![_I am a web-cum-mobile app developer!_](https://raw.githubusercontent.com/siddsarkar/siddsarkar.github.io/master/res/banner.png)
 
 
-#### Skills(Expert): JS / HTML / SASS / REACT / REACT-NATIVE
+#### Skills(Expert): NODEJS / REACT / REACT-NATIVE / HTML / SCSS
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> 
@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on **Backend** 🌝 
 - 🌱 I’m currently into **NodeJS/Express** 🌼 
 - 👯 I’m looking to collaborate on **React Projects** 🐬 
-- 🤔 I’m looking for help with **Java** ☕ 
+- 🤔 I’m looking for help with **Java/Kotlin** ☕ 
 - 💬 Ask me about **Web/App Development** 💻 
 - 📫 How to reach me: [**facebbook**](http://facebook.com/sidking791) 
 - 😄 Pronouns: **nah!**
