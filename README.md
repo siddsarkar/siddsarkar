@@ -2,7 +2,7 @@
 
 #### I am a web/android/webextensions developer
 
-### ![_I am a web-cum-mobile app developer!_](https://raw.githubusercontent.com/siddsarkar/siddsarkar.github.io/master/res/banner.png)
+### ![_I am a web-cum-mobile app developer!_](https://libg.s3.us-east-2.amazonaws.com/download/Room-Name-Full.jpg)
 
 #### Currently Learning 
 
