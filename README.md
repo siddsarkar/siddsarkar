@@ -48,7 +48,9 @@
 #### Tools 
 
 <p align="left">
+  <img src="https://static.figma.com/app/icon/1/icon-128.png" alt="github" width="40" height="40"/>
   <img src="https://www.jetbrains.com/apple-touch-icon.png" alt="github" width="40" height="40"/>
+  <img src="https://developer.android.com/studio/_pwa/android/icons/icon-72x72.png" alt="github" width="40" height="40"/>
   <img src="https://github.com/fluidicon.png" alt="github" width="40" height="40"/>
   <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/chrome/chrome.svg" alt="firefox" width="40" height="40"/>
