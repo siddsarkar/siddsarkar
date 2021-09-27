@@ -35,6 +35,7 @@
 #### Frontend Technologies 
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/>
@@ -47,7 +48,6 @@
 #### Tools 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" width="40" height="40"/>
   <img src="https://www.jetbrains.com/apple-touch-icon.png" alt="github" width="40" height="40"/>
   <img src="https://github.com/fluidicon.png" alt="github" width="40" height="40"/>
   <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="git" width="40" height="40"/>
