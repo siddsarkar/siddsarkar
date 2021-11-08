@@ -2,7 +2,7 @@
 
 #### I am a web/android/webextensions developer
 
-### ![_I am a web-cum-mobile app developer!_](https://libg.s3.us-east-2.amazonaws.com/download/Room-Name-Full.jpg)
+### ![_I am a web-cum-mobile app developer!_](https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=radical&hide_border=true)
 
 #### Currently Learning 
 
