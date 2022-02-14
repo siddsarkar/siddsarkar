@@ -2,7 +2,11 @@
 
 #### I am a web/android/webextensions developer
 
-### ![_I am a web-cum-mobile app developer!_](https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=radical&hide_border=true)
+#### Stats
+
+![_I am a web-cum-mobile app developer!_](https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=radical&hide_border=true)
+
+![Stackoverflow stats](https://stackoverflow-readme-profile.johannchopin.fr/profile/11958360?theme=monokai)
 
 #### Currently Learning 
 
