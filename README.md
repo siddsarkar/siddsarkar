@@ -1,13 +1,15 @@
 # Hola visitor! 👋, my name is Siddhartha
 
-I am a Full Stack developer from Assam (India), currently associated with [@atomicloops](https://www.atomicloops.com/). I completed my masters as well as bachelors degree from IIT Kharagpur (2018-2023).
+I am a Full Stack developer from Assam (India), currently associated with [@atomicloops](https://www.atomicloops.com/). I completed my masters as well as bachelors degree from IIT Kharagpur (2018-2023). [@alsiddsarkar](https://github.com/alsiddsarkar) is my work github.
 
 [<img src='https://img.shields.io/badge/Say%20Hi%20%F0%9F%91%8B-grey?style=for-the-badge&logo=twitter' alt='say hi'>](https://twitter.com/siddsarkar7)
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=dracula&hide_border=true" alt="github stats" width="300"/>
-<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11958360?theme=monokai" alt="stackoverflow stats" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=slateorange&hide_border=false" alt="github stats" width="300"/>
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11958360?theme=dark&website=true&location=true" alt="user:11958360's SO profile">
+</a>
 
 #### Currently Into 
 
