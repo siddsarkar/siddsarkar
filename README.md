@@ -6,8 +6,8 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=monokai&hide_border=true" alt="webpack" width="300"/>
-<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11958360?theme=monokai" alt="webpack" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddsarkar&show_icons=true&theme=dracula&hide_border=true" alt="github stats" width="300"/>
+<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11958360?theme=monokai" alt="stackoverflow stats" width="300"/>
 
 #### Currently Into 
 
@@ -85,25 +85,22 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
 - 👯 I’m looking to collaborate on **Cross Platform Projects** 🐬
 - 🤔 I’m looking for help with **Java/Kotlin** ☕
 - 💬 Ask me about **Web/App Development** 💻
-- 📫 How to reach me: [**Social Profiles**](#profiles)
+- 📫 How to reach me: [**Profiles 👇**](#profiles)
 - 😄 Pronouns: **nah!**
 - ⚡ Fun fact: **I sleep Late**
 
 #### Profiles
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siddsarkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/siddsarkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhartha-sarkar-9363a9193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sidking791)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sidd_sarkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddsarkar7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11958360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://siddsarkar.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/deviantart.svg' alt='deviantart' height='40'>](https://www.deviantart.com/sidking791)  
+[<img src='https://cdn.simpleicons.org/github/gray' alt='github' height='40'>](https://github.com/siddsarkar)  [<img src='https://cdn.simpleicons.org/devdotto/gray' alt='dev' height='40'>](https://dev.to/siddsarkar)  [<img src='https://cdn.simpleicons.org/linkedin/gray' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhartha-sarkar-9363a9193/)  [<img src='https://cdn.simpleicons.org/facebook/gray' alt='facebook' height='40'>](https://www.facebook.com/sidking791)  [<img src='https://cdn.simpleicons.org/instagram/gray' alt='instagram' height='40'>](https://www.instagram.com/sidd_sarkar/)  [<img src='https://cdn.simpleicons.org/twitter/gray' alt='twitter' height='40'>](https://twitter.com/siddsarkar7)  [<img src='https://cdn.simpleicons.org/stackoverflow/gray' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11958360)  [<img src='https://cdn.simpleicons.org/icloud/gray' alt='website' height='40'>](https://siddsarkar.github.io/)  [<img src='https://cdn.simpleicons.org/deviantart/gray' alt='deviantart' height='40'>](https://www.deviantart.com/sidking791)  [<img src='https://cdn.simpleicons.org/medium/gray' alt='medium' height='40'>](https://medium.com/@siddsarkar)
 
-#### Articles
+#### Blogs
 
 - 📝 Latest answers from [Quora](https://www.quora.com/profile/Siddharth-502)
 - 📝 Latest articles from [Medium](https://medium.com/@siddsarkar)
 - 📝 Latest articles from [Dev.to](https://dev.to/siddsarkar)
 
-<p align="center">
-  <br/>
-  Profile Hits
-</p>
-<p align="center">
+<h4 align="middle">Profile Hits</h4>
+<p align="middle">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=siddsarkar.siddsarkar" />
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsiddsarkar%2Fsiddsarkar.json%3Fcolor%3Dpink" />
   <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddsarkar" />
