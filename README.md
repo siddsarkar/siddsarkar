@@ -1,6 +1,6 @@
 # Hola visitor! 👋, my name is Siddhartha
 
-I am a Full Stack developer from Assam (India), currently associated with [@atomicloops](https://www.atomicloops.com/). I completed my masters as well as bachelors degree from IIT Kharagpur (2018-2023). [@alsiddsarkar](https://github.com/alsiddsarkar) is my work github.
+I am a Full Stack developer from Assam (India), currently associated with [@atomicloops](https://www.atomicloops.com/), my work github is [@alsiddsarkar](https://github.com/alsiddsarkar). I completed my masters as well as bachelors degree from IIT Kharagpur (2018-2023).
 
 [<img src='https://img.shields.io/badge/Say%20Hi%20%F0%9F%91%8B-grey?style=for-the-badge&logo=twitter' alt='say hi'>](https://twitter.com/siddsarkar7)
 
@@ -46,16 +46,18 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/chrome-extension/chrome-extension.png" alt="sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67" alt="mobx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/web-components/web-components.png" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/>
   <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/215/thumb/tailwind-tag_2x.png" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/>
 </p>
   
-#### Tools 
+#### Tools i work with
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="webpack" width="40" height="40"/>
@@ -64,6 +66,7 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
   <img src="https://developer.android.com/studio/_pwa/android/icons/icon-72x72.png" alt="github" width="40" height="40"/>
   <img src="https://github.com/fluidicon.png" alt="github" width="40" height="40"/>
   <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png" alt="chrome" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_48x48.png" alt="firefox" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_48x48.png" alt="edge" width="40" height="40"/>
@@ -73,8 +76,8 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
 #### DevOps 
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" alt="azure" width="40" height="40"/>
   <img src="https://www.digitalocean.com/_next/static/media/do-logo.d3eb8550.svg" alt="digitalocean" width="40" height="40"/>
   <img src="https://www.herokucdn.com/favicon.ico" alt="azure" width="40" height="40"/>
   <img src="https://fly.io/phx/ui/images/favicon/favicon-595d1312b35dfe32838befdf8505515e.ico" alt="azure" width="40" height="40"/>
