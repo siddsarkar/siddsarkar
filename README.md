@@ -100,8 +100,11 @@ I am a Full Stack developer from Assam (India), currently associated with [@atom
 - 📝 Latest articles from [Dev.to](https://dev.to/siddsarkar)
 
 <p align="center">
-<br />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=siddsarkar.siddsarkar" />
-<img src="https://gpvc.arturio.dev/siddsarkar" />
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddsarkar" />
+  <br/>
+  Profile Hits
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siddsarkar.siddsarkar" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsiddsarkar%2Fsiddsarkar.json%3Fcolor%3Dpink" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddsarkar" />
 </p>
